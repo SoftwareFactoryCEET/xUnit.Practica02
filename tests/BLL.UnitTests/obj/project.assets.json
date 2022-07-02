@@ -5933,28 +5933,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User01\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\User01\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Pruebas de Software con xUnit\\xUnit.Practica02\\tests\\BLL.UnitTests\\BLL.UnitTests.csproj",
+      "projectUniqueName": "C:\\Repository Git\\xUnit.Practica02\\tests\\BLL.UnitTests\\BLL.UnitTests.csproj",
       "projectName": "BLL.UnitTests",
-      "projectPath": "C:\\Pruebas de Software con xUnit\\xUnit.Practica02\\tests\\BLL.UnitTests\\BLL.UnitTests.csproj",
+      "projectPath": "C:\\Repository Git\\xUnit.Practica02\\tests\\BLL.UnitTests\\BLL.UnitTests.csproj",
       "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-      "outputPath": "C:\\Pruebas de Software con xUnit\\xUnit.Practica02\\tests\\BLL.UnitTests\\obj\\",
+      "outputPath": "C:\\Repository Git\\xUnit.Practica02\\tests\\BLL.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5967,8 +5959,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Pruebas de Software con xUnit\\xUnit.Practica02\\src\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Pruebas de Software con xUnit\\xUnit.Practica02\\src\\BLL\\BLL.csproj"
+            "C:\\Repository Git\\xUnit.Practica02\\src\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Repository Git\\xUnit.Practica02\\src\\BLL\\BLL.csproj"
             }
           }
         }
@@ -6019,7 +6011,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

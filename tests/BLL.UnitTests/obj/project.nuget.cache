@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9kt2cEWSiX1cSSJfE71PQZnDZEz7S1i5vbXeTmzj7x/C1DQDMpPFUi5RCnl41ZElOamtV7syHNJ217p4tcd04w==",
+  "dgSpecHash": "FpAhP5thiF0D3oYgthXveLu8tF8A8c/4Z9ywsloHJ16XuIBAhbPnYY5fU7PNwYVIAzoVZzu5WZ69TsNaAcgfGw==",
   "success": true,
-  "projectFilePath": "C:\\Pruebas de Software con xUnit\\xUnit.Practica02\\tests\\BLL.UnitTests\\BLL.UnitTests.csproj",
+  "projectFilePath": "C:\\Repository Git\\xUnit.Practica02\\tests\\BLL.UnitTests\\BLL.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User01\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\User01\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

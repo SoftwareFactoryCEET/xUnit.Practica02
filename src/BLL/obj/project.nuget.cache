@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n977ro3mLsQlppBiJ0ub/toq7IygdZbyb59u4WVorX4yT98FUu5/n0Qlwlp4aOU7KKxUtssmeNZDP5UTQ1XL9w==",
+  "dgSpecHash": "9oBaFeBzMAxfjawAQLCD5g2b4E320xnwOlVc3rE6ttB/mkrO5uX6OxVpgSBIh4iKDKXiJrubcLXqA6kpgP5rzA==",
   "success": true,
-  "projectFilePath": "C:\\Pruebas de Software con xUnit\\xUnit.Practica02\\src\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Repository Git\\xUnit.Practica02\\src\\BLL\\BLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
