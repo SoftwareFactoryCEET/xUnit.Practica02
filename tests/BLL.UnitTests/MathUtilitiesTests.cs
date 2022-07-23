@@ -74,9 +74,14 @@ namespace BLL.UnitTests
             const int a = 50;
             const int b = 0;
             //Act and Assert
-            var divideByZeroException = Assert.Throws<DivideByZeroException>(() => _mathUtilities.Divide(a, b));
-            Assert.Equal("Attempted to divide by zero.", divideByZeroException.Message);
 
+            void Action()
+            {
+                _mathUtilities.Divide(a, b);
+            }
+
+            var divideByZeroException = Assert.Throws<DivideByZeroException>(Action);
+            Assert.Equal("Attempted to divide by zero.", divideByZeroException.Message);
         }
 
 
